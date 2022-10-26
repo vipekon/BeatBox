@@ -7,7 +7,6 @@ import javax.sound.midi.*;
 import java.util.*;
 import java.awt.event.*;
 import java.net.*;
-import java.util.List;
 import javax.swing.event.*;
 
 public class BeatBoxFinal {
